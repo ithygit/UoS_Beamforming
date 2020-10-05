@@ -3,6 +3,10 @@ Repository for the models and code used in "UE Tracking Beamforming using a MIMO
 5G Mobile Communications and Intelligent Embedded Systems at the University of Sussex. The goals, methodology and testing procedures 
 are described in the [report](Report.pdf).
 
+[Pictures](https://imgur.com/a/FrR2UBe)
+
+ - `i.imgur.com/XIyj9pg.mp4`
+
 The work done is divided into the following sections:
 * Model setup script
 * Simulations
@@ -19,6 +23,7 @@ The work done is divided into the following sections:
   * Fusion 360
   * STEP
 * Report
+* Demo Pictures
 
 ## Model Setup Script
 This file must be executed before any other as it contains the subsystem parameters for every model, either real or simulation. 
